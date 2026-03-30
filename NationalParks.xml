@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <NationalParks>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
@@ -128,4 +128,4 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
+<NationalPark Rating="4.6"><Name>Bryce Canyon</Name><Phone>435-834-5322</Phone><Phone>435-834-4747</Phone><Address NearestAirport="Cedar City"><Number>1</Number><Street>Highway 63</Street><City>Bryce Canyon City</City><State>UT</State><Zip>84764</Zip></Address></NationalPark><NationalPark><Name>Arches</Name><Phone>435-719-2299</Phone><Address NearestAirport="Moab"><Number>2</Number><Street>Main Street</Street><City>Moab</City><State>UT</State><Zip>84532</Zip></Address></NationalPark></NationalParks>
