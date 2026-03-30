@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -27,8 +27,7 @@
   </NationalPark>
   <NationalPark Rating="4.7">
     <Name>Yosemite</Name>
-    
-    <Address NearestAirport="Fresno">
+        <Address NearestAirport="Fresno">
       <Number>1</Number>
       <Street>Ahwahnee Drive</Street>
       <City>Yosemite Valley</City>
@@ -50,7 +49,7 @@
   </NationalPark>
   <NationalPark Rating="4.8">
     <Name>Rocky Mountain</Name>
-      <Name>RMNP</Name>
+    <Name>RMNP</Name>
     <Phone>970-586-1206</Phone>
     <Address NearestAirport="Denver">
       <Number>1000</Number>
@@ -129,4 +128,50 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
-<NationalPark Rating="4.6"><Name>Bryce Canyon</Name><Phone>435-834-5322</Phone><Phone>435-834-4747</Phone><Address NearestAirport="Cedar City"><Number>1</Number><Street>Highway 63</Street><City>Bryce Canyon City</City><State>UT</State><Zip>84764</Zip></Address></NationalPark><NationalPark><Name>Arches</Name><Phone>435-719-2299</Phone><Address NearestAirport="Moab"><Number>2</Number><Street>Main Street</Street><City>Moab</City><State>UT</State><Zip>84532</Zip></Address></NationalPark></NationalPark>
+  <NationalPark Rating="4.6">
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Phone>435-834-4747</Phone>
+    <Address NearestAirport="Cedar City">
+      <Number>1</Number>
+      <Street>Highway 63</Street>
+      <City>Bryce Canyon City</City>
+      <State>UT</State>
+      <Zip>84764</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address NearestAirport="Moab">
+      <Number>2</Number>
+      <Street>Main Street</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.5">
+    <Name>Shenandoah</Name>
+    <Phone>540-999-3500</Phone>
+    <Address NearestAirport="Charlottesville">
+      <Number>3655</Number>
+      <Street>US Highway 211</Street>
+      <City>Luray</City>
+      <State>VA</State>
+      <Zip>22835</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Phone>760-786-2331</Phone>
+    <Address NearestAirport="Las Vegas">
+      <Number>328</Number>
+      <Street>Greenland Blvd</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+</NationalPark>
